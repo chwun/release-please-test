@@ -1,7 +1,14 @@
 {
   "packages": {
     "backend": {
-      "release-type": "simple"
+      "release-type": "simple",
+      "extra-files": [
+        {
+          "type": "xml",
+          "path": "backend/backend.csproj",
+          "xpath": "//Version"
+        }
+      ]
     }
   }
 }
