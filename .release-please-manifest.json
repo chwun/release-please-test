@@ -3,7 +3,7 @@
   "extra-files":[
     {
       "type": "xml",
-      "path": "/backend/backend.csproj",
+      "path": "backend/backend.csproj",
       "xpath": "/Project/PropertyGroup/Version"
     }
   ]
