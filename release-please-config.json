@@ -8,12 +8,11 @@
           "xpath": "/Project/PropertyGroup/Version"
         }
       ],
-  "release-as": "0.1.0",
   "bump-minor-pre-major": true,
   "draft": true,
   "prerelease": "true",
   "prerelease-type": "beta",
-  "group-pull-request-title-pattern": "chore: release ${version}",
+  "pull-request-title-pattern": "chore: release ${version}",
   "packages": {
     ".": {
     }
