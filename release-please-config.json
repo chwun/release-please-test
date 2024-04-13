@@ -12,7 +12,6 @@
   "draft": true,
   "prerelease": "true",
   "prerelease-type": "beta",
-  "pull-request-title-pattern": "chore: release ${version}",
   "packages": {
     ".": {
     }
