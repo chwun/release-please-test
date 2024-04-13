@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://github.com/chwun/release-please-test/compare/v0.3.0...v0.4.0) (2024-04-13)
+
+
+### Features
+
+* add new file xyz ([d7bf69b](https://github.com/chwun/release-please-test/commit/d7bf69b16507339b721d9bd42c990ec90994bef1))
+
 ## [0.3.0](https://github.com/chwun/release-please-test/compare/v0.2.0...v0.3.0) (2024-04-13)
 
 
