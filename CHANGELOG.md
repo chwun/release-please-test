@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.5.0](https://github.com/chwun/release-please-test/compare/v0.4.0...v0.5.0) (2024-04-13)
+
+
+### Features
+
+* Create bla ([a8b07dd](https://github.com/chwun/release-please-test/commit/a8b07ddeca58b3df9294a7b45a6f180b264b765d))
+* Create test.cs ([da270b9](https://github.com/chwun/release-please-test/commit/da270b9d86bf242592d126a05a68bfc713314449))
+
 ## [0.4.0](https://github.com/chwun/release-please-test/compare/v0.3.0...v0.4.0) (2024-04-13)
 
 
