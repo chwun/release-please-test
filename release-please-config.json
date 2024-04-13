@@ -10,8 +10,6 @@
       ],
   "bump-minor-pre-major": true,
   "draft": true,
-  "prerelease": "true",
-  "prerelease-type": "beta",
   "packages": {
     ".": {
     }
