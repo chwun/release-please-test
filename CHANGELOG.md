@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.3.0](https://github.com/chwun/release-please-test/compare/v0.2.0...v0.3.0) (2024-04-13)
+
+
+### Features
+
+* Create blub.txt ([c751a07](https://github.com/chwun/release-please-test/commit/c751a07ac2f15b910f51f07aaf6396c983e3b572))
+
+
+### Bug Fixes
+
+* remove version field ([f095fa2](https://github.com/chwun/release-please-test/commit/f095fa27031a80c3eb08fc78d4883a42dbf811e1))
+
 ## [0.2.0](https://github.com/chwun/release-please-test/compare/v0.1.0...v0.2.0) (2024-04-13)
 
 
