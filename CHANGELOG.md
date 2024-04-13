@@ -1,5 +1,23 @@
 # Changelog
 
+## [1.0.0](https://github.com/chwun/release-please-test/compare/v0.4.0...v1.0.0) (2024-04-13)
+
+
+### Features
+
+* Create bla ([a8b07dd](https://github.com/chwun/release-please-test/commit/a8b07ddeca58b3df9294a7b45a6f180b264b765d))
+* Create test.cs ([da270b9](https://github.com/chwun/release-please-test/commit/da270b9d86bf242592d126a05a68bfc713314449))
+
+
+### Bug Fixes
+
+* Create test ([8abb9d8](https://github.com/chwun/release-please-test/commit/8abb9d8d978a1c5f90737d32d934f980e6e7f3ff))
+
+
+### Miscellaneous Chores
+
+* new release ([6477dac](https://github.com/chwun/release-please-test/commit/6477dac7d809e585619d5c1aaa4005eb89e5756c))
+
 ## [0.4.0](https://github.com/chwun/release-please-test/compare/v0.3.0...v0.4.0) (2024-04-13)
 
 
