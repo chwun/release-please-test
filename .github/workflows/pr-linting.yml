@@ -39,5 +39,5 @@ jobs:
       - if: ${{ steps.lint_pr_title.outputs.error_message == null }}
         uses: marocchino/sticky-pull-request-comment@v2
         with:   
-          header: pr-title-lint-error
+          header: PR title invalid
           delete: true
