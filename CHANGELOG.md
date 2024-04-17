@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.1.0](https://github.com/chwun/release-please-test/compare/v1.0.0...v1.1.0) (2024-04-17)
+
+
+### Features
+
+* add pr linting action ([#13](https://github.com/chwun/release-please-test/issues/13)) ([fa1de80](https://github.com/chwun/release-please-test/commit/fa1de80d457fa2e168d947722cacd3e001358cc5))
+* my new feature hallo? ([#15](https://github.com/chwun/release-please-test/issues/15)) ([c936e1b](https://github.com/chwun/release-please-test/commit/c936e1b43f8b56e39abbe9a0052298b72a7edc08))
+
+
+### Bug Fixes
+
+* fix json file ([#14](https://github.com/chwun/release-please-test/issues/14)) ([ba2d339](https://github.com/chwun/release-please-test/commit/ba2d339ed1c0614e631b3c2e3209ab3e4c865319))
+
 ## [1.0.0](https://github.com/chwun/release-please-test/compare/v0.4.0...v1.0.0) (2024-04-13)
 
 
