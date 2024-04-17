@@ -8,10 +8,10 @@ on:
       - synchronize
 
 permissions:
-  pull-requests: read
+  pull-requests: write
 
 jobs:
-  main:
+  lint:
     name: Check if PR title follows conventional commits
     runs-on: ubuntu-latest
     steps:
