@@ -1,5 +1,22 @@
 # Changelog
 
+## [1.1.0](https://github.com/chwun/release-please-test/compare/v1.0.0...v1.1.0) (2024-06-28)
+
+
+### Features
+
+* add new line in file.txt ([3c82128](https://github.com/chwun/release-please-test/commit/3c8212865f49dd29b4effa7bf5df53f2c1f31cd8))
+* add pr linting action ([#13](https://github.com/chwun/release-please-test/issues/13)) ([fa1de80](https://github.com/chwun/release-please-test/commit/fa1de80d457fa2e168d947722cacd3e001358cc5))
+* my new feature hallo? ([#15](https://github.com/chwun/release-please-test/issues/15)) ([c936e1b](https://github.com/chwun/release-please-test/commit/c936e1b43f8b56e39abbe9a0052298b72a7edc08))
+* my new feature in blub.txt ([869710d](https://github.com/chwun/release-please-test/commit/869710d9d87357f65241eea2b87e2c7fa129c8d2))
+* Update release.yml ([7c1f2ae](https://github.com/chwun/release-please-test/commit/7c1f2ae8a31b01356a82020a1f74c2f05b5a4bd0))
+
+
+### Bug Fixes
+
+* fix json file ([#14](https://github.com/chwun/release-please-test/issues/14)) ([ba2d339](https://github.com/chwun/release-please-test/commit/ba2d339ed1c0614e631b3c2e3209ab3e4c865319))
+* Update release.yml ([dea4057](https://github.com/chwun/release-please-test/commit/dea40570ef2a618339545d20cec7fbca8160d374))
+
 ## [1.0.0](https://github.com/chwun/release-please-test/compare/v0.4.0...v1.0.0) (2024-04-13)
 
 
