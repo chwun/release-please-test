@@ -13,5 +13,6 @@
       "path": "backend/backend.csproj",
       "xpath": "//Project/PropertyGroup/AssemblyVersion"
     }
-  ]
+  ],
+  "bump-minor-pre-major": true
 }
